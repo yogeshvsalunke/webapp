@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      "meteor-down",
+      ""
+    ]
+  ],
+  "_from": "meteor-down@latest",
+  "_id": "meteor-down@2.6.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/meteor-down",
+  "_nodeVersion": "5.1.1",
+  "_npmUser": {
+    "email": "mnmtanish@gmail.com",
+    "name": "mnmtanish"
+  },
+  "_npmVersion": "3.3.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "meteor-down",
+    "raw": "meteor-down",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/meteor-down/-/meteor-down-2.6.0.tgz",
+  "_shasum": "5becdb5c8fc68f996e07c3ff57650c5c95af1150",
+  "_shrinkwrap": null,
+  "_spec": "meteor-down",
+  "_where": "",
+  "author": {
+    "name": "Meteorhacks"
+  },
+  "bin": {
+    "meteor-down": "./bin/meteor-down.js"
+  },
+  "bugs": {
+    "url": "https://github.com/meteorhacks/meteor-down/issues"
+  },
+  "dependencies": {
+    "coffee-script": "1.9.x",
+    "ddp": "0.10.x",
+    "underscore": "1.7.x"
+  },
+  "description": "Load testing for Meteor",
+  "devDependencies": {
+    "mocha": "1.21.x"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "5becdb5c8fc68f996e07c3ff57650c5c95af1150",
+    "tarball": "https://registry.npmjs.org/meteor-down/-/meteor-down-2.6.0.tgz"
+  },
+  "gitHead": "aadc8ba8a155ba7af5159fcd3dc361484e680a1c",
+  "homepage": "https://github.com/meteorhacks/meteor-down#readme",
+  "license": "MIT",
+  "main": "./lib/mdown.js",
+  "maintainers": [
+    {
+      "name": "mnmtanish",
+      "email": "mnmtanish@gmail.com"
+    },
+    {
+      "name": "arunoda",
+      "email": "arunoda.susiripala@gmail.com"
+    }
+  ],
+  "name": "meteor-down",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meteorhacks/meteor-down.git"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "version": "2.6.0"
+}
